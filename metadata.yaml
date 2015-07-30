@@ -1,5 +1,11 @@
 _repo: The-Three-Musketeers_1257
 alternative_title: Les trois mousquetaires. English
+covers:
+- attribution: Ioannis Fetanis, 2015
+  cover_type: original
+  image_path: cover.jpg
+  rights: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+  rights_url: https://creativecommons.org/licenses/by-nc/4.0/
 creator:
   author:
     agent_name: Dumas, Alexandre
