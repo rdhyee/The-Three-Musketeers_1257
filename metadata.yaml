@@ -10,19 +10,19 @@ creator:
   author:
     agent_name: Dumas, Alexandre
     aliases:
+    - Dumas, Alexander
     - Dumas père, Alexandre
     - Dumas, Alexandre, pere
-    - Dumas, Alexander
     birthdate: 1802
     deathdate: 1870
     gutenberg_agent_id: '492'
     url: http://www.gutenberg.org/2009/agents/492
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
 gutenberg_bookshelf:
-- Adventure
-- Movie Books
 - Historical Fiction
+- Adventure
 - Best Books Ever Listings
+- Movie Books
 gutenberg_issued: '1998-03-01'
 gutenberg_type: Text
 identifiers:
@@ -32,10 +32,10 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- '!lcsh:France -- History -- Louis XIII, 1610-1643 -- Fiction'
-- '!lcsh:Swordsmen -- Fiction'
-- '!lcsh:Adventure and adventurers -- Fiction'
-- '!lcc:PQ'
-- '!lcsh:Historical fiction'
+- '!lcsh: Adventure and adventurers -- Fiction'
+- '!lcsh: Historical fiction'
+- '!lcsh: France -- History -- Louis XIII, 1610-1643 -- Fiction'
+- '!lcsh: Swordsmen -- Fiction'
+- '!lcc: PQ'
 title: The Three Musketeers
 url: http://www.gutenberg.org/ebooks/1257
