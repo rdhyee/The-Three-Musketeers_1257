@@ -1,5 +1,5 @@
 _repo: The-Three-Musketeers_1257
-_version: 0.0.2
+_version: 0.1.0
 alternative_title: Les trois mousquetaires. English
 covers:
 - attribution: Ioannis Fetanis, 2015
@@ -39,5 +39,6 @@ subjects:
 - '!lcsh: France -- History -- Louis XIII, 1610-1643 -- Fiction'
 - '!lcsh: Swordsmen -- Fiction'
 - '!lcc: PQ'
+- GITenberg
 title: The Three Musketeers
 url: http://www.gutenberg.org/ebooks/1257
